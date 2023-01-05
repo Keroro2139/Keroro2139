@@ -31,7 +31,11 @@
 
 <a href="#"><img src="https://img.shields.io/badge/aws lambda-FF9900.svg?&style=for-the-badge&logo=aws-lambda&logoColor=ffffff"/></a>
 <a href="#"><img src="https://img.shields.io/badge/aws amplify-FF9900.svg?&style=for-the-badge&logo=aws-amplify&logoColor=ffffff"/></a>
-<a href="#"><img src="https://img.shields.io/badge/amazon cloudwatch-#FF4F8B.svg?&style=for-the-badge&logo=amazon-cloudwatch&logoColor=ffffff"/></a>
+<a href="#"><img src="https://img.shields.io/badge/amazon cloudwatch-FF4F8B.svg?&style=for-the-badge&logo=amazon-cloudwatch&logoColor=ffffff"/></a>
+<a href="#"><img src="https://img.shields.io/badge/amazon s3-569A31.svg?&style=for-the-badge&logo=amazon-s3&logoColor=ffffff"/></a>
 
+**STATS**
+
+![Weerapat's github stats](https://github-readme-stats.vercel.app/api?username=Keroro2139&count_private=true&show_icons=true&hide_title=true)
 
 
