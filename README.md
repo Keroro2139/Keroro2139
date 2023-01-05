@@ -22,7 +22,7 @@
 <a href="#"><img src="https://img.shields.io/badge/postgresql-4169E1.svg?&style=for-the-badge&logo=postgresql&logoColor=ffffff"/></a>
 <a href="#"><img src="https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=ffffff"/></a>
 <a href="#"><img src="https://img.shields.io/badge/mongo-47A248.svg?&style=for-the-badge&logo=mongodb&logoColor=ffffff"/></a>
-<a href="#"><img src="https://img.shields.io/badge/dynamodb-4053D6.svg?&style=for-the-badge&logo=dynamodb&logoColor=ffffff"/></a>
+<a href="#"><img src="https://img.shields.io/badge/dynamodb-4053D6.svg?&style=for-the-badge&logo=amazon-dynamodb&logoColor=ffffff"/></a>
 
 <a href="#"><img src="https://img.shields.io/badge/aws services-FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=ffffff"/></a>
 
