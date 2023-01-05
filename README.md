@@ -23,16 +23,22 @@
 <a href="#"><img src="https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=ffffff" /></a>
 <a href="#"><img src="https://img.shields.io/badge/express-000000.svg?&style=for-the-badge&logo=express&logoColor=ffffff" /></a>
 <a href="#"><img src="https://img.shields.io/badge/nestjs-E0234E.svg?&style=for-the-badge&logo=nestjs&logoColor=ffffff" /></a>
+<a href="#"><img src="https://img.shields.io/badge/kong-003459.svg?&style=for-the-badge&logo=kong&logoColor=ffffff" /></a>
 
 <a href="#"><img src="https://img.shields.io/badge/postgresql-4169E1.svg?&style=for-the-badge&logo=postgresql&logoColor=ffffff"/></a>
 <a href="#"><img src="https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=ffffff"/></a>
 <a href="#"><img src="https://img.shields.io/badge/mongo-47A248.svg?&style=for-the-badge&logo=mongodb&logoColor=ffffff"/></a>
 <a href="#"><img src="https://img.shields.io/badge/dynamodb-4053D6.svg?&style=for-the-badge&logo=amazon-dynamodb&logoColor=ffffff"/></a>
 
+<a href="#" ><img src="https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=ffffff"/></a>
+<a href="#" ><img src="https://img.shields.io/badge/docker-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=ffffff"/></a>
+
 <a href="#"><img src="https://img.shields.io/badge/aws lambda-FF9900.svg?&style=for-the-badge&logo=aws-lambda&logoColor=ffffff"/></a>
 <a href="#"><img src="https://img.shields.io/badge/aws amplify-FF9900.svg?&style=for-the-badge&logo=aws-amplify&logoColor=ffffff"/></a>
 <a href="#"><img src="https://img.shields.io/badge/amazon cloudwatch-FF4F8B.svg?&style=for-the-badge&logo=amazon-cloudwatch&logoColor=ffffff"/></a>
 <a href="#"><img src="https://img.shields.io/badge/amazon s3-569A31.svg?&style=for-the-badge&logo=amazon-s3&logoColor=ffffff"/></a>
+<a href="#"><img src="https://img.shields.io/badge/amazon ec2-569A31.svg?&style=for-the-badge&logo=amazon-ec2&logoColor=ffffff"/></a>
+<a href="#"><img src="https://img.shields.io/badge/amazon api gateway-FF4F8B.svg?&style=for-the-badge&logo=amazon-api-gateway&logoColor=ffffff"/></a>
 
 **STATS**
 
