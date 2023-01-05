@@ -16,8 +16,11 @@
 <a href="#"><img src="https://img.shields.io/badge/typescript%20-007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/javascript-222222.svg?&style=for-the-badge&logo=javascript&logoColor=F7DF1E"/></a>
 <a href="#"><img src="https://img.shields.io/badge/html-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=ffffff"/></a>
-<a href="#"><img src="https://img.shields.io/badge/python-E34F26.svg?&style=for-the-badge&logo=python&logoColor=ffffff"/></a>
-<a href="#"><img src="https://img.shields.io/badge/django-E34F26.svg?&style=for-the-badge&logo=django&logoColor=ffffff"/></a>
+<a href="#"><img src="https://img.shields.io/badge/python-376B9A.svg?&style=for-the-badge&logo=python&logoColor=ffffff"/></a>
+<a href="#"><img src="https://img.shields.io/badge/django-092C1E.svg?&style=for-the-badge&logo=django&logoColor=ffffff"/></a>
+
+<a href="#"><img src="https://img.shields.io/badge/sql-D06F30.svg?&style=for-the-badge&logo=django&logoColor=ffffff"/></a>
+<a href="#"><img src="https://img.shields.io/badge/nosql-056CEB.svg?&style=for-the-badge&logo=django&logoColor=ffffff"/></a>
 
 <a href="#"><img src="https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=ffffff" /></a>
 
