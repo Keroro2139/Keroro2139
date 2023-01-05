@@ -37,8 +37,8 @@
 <a href="#"><img src="https://img.shields.io/badge/aws amplify-FF9900.svg?&style=for-the-badge&logo=aws-amplify&logoColor=ffffff"/></a>
 <a href="#"><img src="https://img.shields.io/badge/amazon cloudwatch-FF4F8B.svg?&style=for-the-badge&logo=amazon-cloudwatch&logoColor=ffffff"/></a>
 <a href="#"><img src="https://img.shields.io/badge/amazon s3-569A31.svg?&style=for-the-badge&logo=amazon-s3&logoColor=ffffff"/></a>
-<a href="#"><img src="https://img.shields.io/badge/amazon ec2-569A31.svg?&style=for-the-badge&logo=amazon-ec2&logoColor=ffffff"/></a>
 <a href="#"><img src="https://img.shields.io/badge/amazon api gateway-FF4F8B.svg?&style=for-the-badge&logo=amazon-api-gateway&logoColor=ffffff"/></a>
+<a href="#"><img src="https://img.shields.io/badge/amazon ec2-569A31.svg?&style=for-the-badge&logo=amazon-ec2&logoColor=ffffff"/></a>
 
 **STATS**
 
