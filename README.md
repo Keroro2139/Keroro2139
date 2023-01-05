@@ -19,8 +19,8 @@
 <a href="#"><img src="https://img.shields.io/badge/python-376B9A.svg?&style=for-the-badge&logo=python&logoColor=ffffff"/></a>
 <a href="#"><img src="https://img.shields.io/badge/django-092C1E.svg?&style=for-the-badge&logo=django&logoColor=ffffff"/></a>
 
-<a href="#"><img src="https://img.shields.io/badge/sql-D06F30.svg?&style=for-the-badge&logo=django&logoColor=ffffff"/></a>
-<a href="#"><img src="https://img.shields.io/badge/nosql-056CEB.svg?&style=for-the-badge&logo=django&logoColor=ffffff"/></a>
+<a href="#"><img src="https://img.shields.io/badge/sql-D06F30.svg?&style=for-the-badge&logo=sql&logoColor=ffffff"/></a>
+<a href="#"><img src="https://img.shields.io/badge/nosql-056CEB.svg?&style=for-the-badge&logo=nosql&logoColor=ffffff"/></a>
 
 <a href="#"><img src="https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=ffffff" /></a>
 
